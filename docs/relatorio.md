@@ -61,7 +61,7 @@ Não serão utilizadas bibliotecas externas nesta etapa.
 
 ### Enzo Gomes
 
-Responsável pela modelagem inicial do sistema e elaboração do diagrama UML de classes.
+Responsável pela modelagem inicial do sistema e elaboração do diagrama UML de classes e auxílio no desenvolvimento do código.
 
 ### Vinícius Almeida
 
