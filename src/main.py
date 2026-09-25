@@ -30,7 +30,7 @@ def main():
         if opcao == "1":
             descricao = input("Descrição da receita: ")
             valor = float(input("Valor da receita: R$ "))
-            
+
             if not categorias:
                 print("Cadastre uma categoria primeiro.")
                 continue
